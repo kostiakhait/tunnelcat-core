@@ -1,0 +1,3 @@
+/internal/wintun/wintun.dll
+*.exe
+*.test
