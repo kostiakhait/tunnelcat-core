@@ -82,5 +82,5 @@ redistributing a binary that bundles the driver.
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Third-party dependencies keep their own
-licenses (all permissive: BSD-3, MIT, MPL-2.0); see `go.mod`.
+Apache License 2.0 — see [LICENSE](LICENSE). Third-party dependencies keep
+their own licenses (all permissive: BSD-3, MIT, MPL-2.0); see `go.mod`.
